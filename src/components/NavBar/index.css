@@ -29,10 +29,13 @@
   }
   @media (max-width: 600px){
     .logo{
-      width: 90px;
+      width: 80px;
     }
     .timer-logo{
       width: 20px;
       height: 20px;
+    }
+    .time-txt{
+      margin-right: 2px;
     }
   }
