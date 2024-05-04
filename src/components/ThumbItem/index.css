@@ -8,3 +8,8 @@
     border: none;
   }
   
+  @media(max-width: 600px){
+    .thumbnail{
+      width: 70px;
+    }
+  }
