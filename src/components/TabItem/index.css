@@ -1,0 +1,24 @@
+.tab-txt {
+    color: #ffffff;
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 20px;
+    margin: 20px;
+    cursor: pointer;
+  }
+  .selected-tab {
+    color: #fec653;
+    cursor: pointer;
+    text-decoration: underline;
+    border-color: #fec653;
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 20px;
+    margin: 20px;
+  }
+  
+  .tab-btn {
+    background: none;
+    border: none;
+  }
+  
