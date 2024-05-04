@@ -103,9 +103,7 @@ class MatchGame extends Component {
           </div>
         )}
         {!isPlaying && <ScoreCard playAgain={this.playAgain} score={score} />}
-        <li></li>
-        <li></li>
-        <li></li>
+
       </div>
     )
   }

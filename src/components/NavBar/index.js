@@ -22,7 +22,7 @@ const NavBar = props => {
           <p className="time-txt">{time} sec</p>
         </div>
       </div>
-    </div>
+    </div> 
   )
 }
 

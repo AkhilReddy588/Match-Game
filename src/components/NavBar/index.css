@@ -17,7 +17,7 @@
   }
   .nav-items {
     display: flex;
-  }
+  } 
   .timer-logo {
     width: 30px;
     height: 30px;
@@ -27,4 +27,12 @@
     color: #fec653;
     margin-right: 20px;
   }
-  
+  @media (max-width: 600px){
+    .logo{
+      width: 90px;
+    }
+    .timer-logo{
+      width: 20px;
+      height: 20px;
+    }
+  }
